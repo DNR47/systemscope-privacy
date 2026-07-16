@@ -29,7 +29,7 @@ or third-party tracking.
 
 <p>
 If you have any questions, contact:
-your@email.com
+maty.chytil@seznam.cz
 </p>
 
 </body>
